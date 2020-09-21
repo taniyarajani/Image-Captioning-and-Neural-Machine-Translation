@@ -1,1 +1,1 @@
-# Image-Captioning-and-Neural-Machine-Translation
+# Image Captioning and Neural Machine Translation in PyTorch
